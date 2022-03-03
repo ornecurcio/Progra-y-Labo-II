@@ -1,0 +1,16 @@
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe.config
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.pdb
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\bin\Debug\EntidadesRPP.dll
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\bin\Debug\EntidadesRPP.pdb
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.FrmMedico.resources
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.FrmMedicoEgresado.resources
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.FrmPersonal.resources
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.FrmPrincipal.resources
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CopyComplete
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.exe
+C:\Users\Maxi\source\repos\RPP.LAB_II.2021\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.pdb

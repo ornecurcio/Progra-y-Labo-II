@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZXmI1/0LYXKZz+7d23HoEGO872uYTqzyUfuM2+jc6WkqxEAWGwDjLwxs2o3/b8YWJx4nFityDSLsdRl87u9EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orne_\\OneDrive\\Documentos\\----PROGRAMACION INFORMATICA----\\Programacion y Laboratorio II\\Laboratorio II Parcial_2\\FrutasFacil\\Galarza.Lautaro.2A\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orne_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\orne_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

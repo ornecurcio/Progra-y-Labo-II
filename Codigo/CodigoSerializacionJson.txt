@@ -1,0 +1,14 @@
+string ruta = Serializacion.GenerarRuta("Pacientes.json");
+Serializacion.SerializarAJason(ruta, pacientes);
+ruta = Serializacion.GenerarRuta("Cirujanos.json");
+Serializacion.SerializarAJason(ruta, cirujanos);
+            ruta = Serializacion.GenerarRuta("Cirugias.json");
+            Serializacion.SerializarAJason(ruta, cirugias);
+            string rutaAlt = Environment.CurrentDirectory;
+            string ruta= rutaAlt + ""
+            pacientes = Serializacion.DeserealizarDesdeJson<List<Paciente>>(ruta);
+            ruta = Serializacion.GenerarRuta("Cirujanos.json");
+            cirujanos = Serializacion.DeserealizarDesdeJson<List<Cirujano>>(ruta);
+            ruta = Serializacion.GenerarRuta("Cirugias.json");
+            cirugias = Serializacion.DeserealizarDesdeJson<List<Cirugia>>(ruta); 
+            pacientes=pacien; 

@@ -1,0 +1,36 @@
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.AssemblyReference.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.AssemblyReference.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\SEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.AssemblyReference.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\CurcioOrnelaSEGUNDO PARCIAL\RSP_Lab_II_2021_2c__alumnos\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb

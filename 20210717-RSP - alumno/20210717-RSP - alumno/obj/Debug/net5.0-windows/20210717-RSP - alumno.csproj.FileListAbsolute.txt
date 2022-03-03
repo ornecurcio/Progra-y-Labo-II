@@ -1,0 +1,29 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.deps.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.runtimeconfig.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.runtimeconfig.dev.json
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\ref\20210717-RSP - alumno.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\20210717-RSP - alumno.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\bin\Debug\net5.0-windows\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\_20210717_RSP___alumno.FrmCarrera.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\_20210717_RSP___alumno.FrmContador.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\_20210717_RSP___alumno.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.AssemblyInfoInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.AssemblyInfo.cs
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\ref\20210717-RSP - alumno.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\NetCore\20210717-RSP - alumno\20210717-RSP - alumno\obj\Debug\net5.0-windows\20210717-RSP - alumno.genruntimeconfig.cache

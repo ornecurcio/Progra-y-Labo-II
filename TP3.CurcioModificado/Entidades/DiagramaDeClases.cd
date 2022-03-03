@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Entidades.Cirugia">
+    <Position X="5.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAQRAAAEEAAAAAAAAAQAAAAEAAAAAAAAQAAAA=</HashCode>
+      <FileName>Cirugia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Paciente">
+    <Position X="0.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Cirujano">
+    <Position X="3" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAEAAAAAAACAAAAAgAAAAAAAAAAAiA=</HashCode>
+      <FileName>Cirujano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Persona">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAQAAACEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Hospital">
+    <Position X="7.75" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQQEAAEGBAAAAgAAQBABABAUAkAAEAABAoAAAAAAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Estadistica">
+    <Position X="8.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IIABCAiAAIgIAACAAACAAAAEgCAABAAAAAADACCAAgA=</HashCode>
+      <FileName>Estadistica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.SerializacionAJason">
+    <Position X="2.75" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>SerializacionAJason.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.SerializacionAXml&lt;T&gt;">
+    <Position X="0.5" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SerializacionAXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EPatologia">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAABAAAAAAQAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Patologias.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EProcedimiento">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAAAAAEAAAAAAACAAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Procedimientos.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ERol">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Roles.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

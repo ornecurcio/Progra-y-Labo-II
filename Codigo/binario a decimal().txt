@@ -1,0 +1,16 @@
+        public static int BinarioDecimal(string binarioRecibido) //101
+        {
+            double auxPotencias = binarioRecibido.Length - 1; //las potencias q manejo
+            double auxDigito;
+            double ret = 0;
+            string auxChar;
+            foreach (char letra in binarioRecibido)
+            {
+                auxChar = letra.ToString();
+                double.TryParse(auxChar, out auxDigito);
+                ret += (auxDigito*Math.Pow(2,auxPotencias));
+                auxPotencias--;
+            }
+
+            return (int)ret;
+        }

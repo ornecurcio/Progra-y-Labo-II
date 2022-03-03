@@ -1,0 +1,13 @@
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll.config
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll.config
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.AssemblyReference.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb

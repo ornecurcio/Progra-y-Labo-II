@@ -1,0 +1,12 @@
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\orne_\OneDrive\Documentos\----PROGRAMACION INFORMATICA----\Programacion y Laboratorio II\CurcioOrnela2P\SP.LABII.2021.2__alumnos\Entidades\obj\Debug\net5.0\Entidades.pdb

@@ -1,0 +1,254 @@
+[
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 2,
+      "CantMiembroSuperior": 3,
+      "CantMiembroInferior": 1,
+      "CantPelvis": 0,
+      "CantRAFI": 1,
+      "CantReduccionCerrada": 1,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 1,
+      "CantOsteodesis": 1,
+      "CantYeso": 2
+    },
+    "Nombre": "Ornela",
+    "Apellido": "Curcio",
+    "Dni": 34707599
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 1,
+      "CantMiembroSuperior": 1,
+      "CantMiembroInferior": 1,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 1,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 1,
+      "CantOsteodesis": 0,
+      "CantYeso": 1
+    },
+    "Nombre": "Ornela",
+    "Apellido": "Curcio",
+    "Dni": 34707599
+  },
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 2,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 2,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Juan Pablo",
+    "Apellido": "Albarracin",
+    "Dni": 14237825
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 1,
+      "CantPelvis": 0,
+      "CantRAFI": 1,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Juan Pablo",
+    "Apellido": "Albarracin",
+    "Dni": 14237825
+  },
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 1,
+      "CantMiembroInferior": 1,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 1,
+      "CantYeso": 1
+    },
+    "Nombre": "Natalia",
+    "Apellido": "Acorintti",
+    "Dni": 33963306
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Natalia",
+    "Apellido": "Acorintti",
+    "Dni": 33963306
+  },
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 1,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 1,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Juan",
+    "Apellido": "Peralta",
+    "Dni": 32980534
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 1,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 1,
+      "CantYeso": 0
+    },
+    "Nombre": "Juan",
+    "Apellido": "Peralta",
+    "Dni": 32980534
+  },
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 1,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 1,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Lucia",
+    "Apellido": "Guidali",
+    "Dni": 33203789
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Lucia",
+    "Apellido": "Guidali",
+    "Dni": 33203789
+  },
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 1,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 1
+    },
+    "Nombre": "Noelia",
+    "Apellido": "Gonzalez",
+    "Dni": 33203790
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 0,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 0
+    },
+    "Nombre": "Noelia",
+    "Apellido": "Gonzalez",
+    "Dni": 33203790
+  },
+  {
+    "Rol": "Cirujano",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 2,
+      "CantPelvis": 0,
+      "CantRAFI": 1,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 1
+    },
+    "Nombre": "Daniel",
+    "Apellido": "Villena",
+    "Dni": 22963307
+  },
+  {
+    "Rol": "Ayudante",
+    "Estadistica": {
+      "CantColumna": 0,
+      "CantMiembroSuperior": 0,
+      "CantMiembroInferior": 0,
+      "CantPelvis": 1,
+      "CantRAFI": 0,
+      "CantReduccionCerrada": 0,
+      "CantOsteotomia": 0,
+      "CantArtrodecis": 0,
+      "CantOsteodesis": 0,
+      "CantYeso": 1
+    },
+    "Nombre": "Daniel",
+    "Apellido": "Villena",
+    "Dni": 22963307
+  }
+]

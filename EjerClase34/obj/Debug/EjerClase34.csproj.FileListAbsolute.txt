@@ -1,0 +1,2 @@
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\obj\Debug\EjerClase34.csproj.CoreCompileInputs.cache
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\obj\Debug\EjerClase34.csproj.AssemblyReference.cache

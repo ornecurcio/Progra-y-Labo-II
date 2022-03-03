@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmCargarProcedimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEstadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEstadisticaHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmIngresoDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMostrarEstadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSubMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

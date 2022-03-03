@@ -1,0 +1,6 @@
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\bin\Debug\EjerClase34.dll
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\bin\Debug\EjerClase34.pdb
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\obj\Debug\Vehiculos.csproj.AssemblyReference.cache
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\obj\Debug\EjerClase34.dll
+C:\Users\orne_\source\repos\Curcio.Ornela\EjerClase34\obj\Debug\EjerClase34.pdb

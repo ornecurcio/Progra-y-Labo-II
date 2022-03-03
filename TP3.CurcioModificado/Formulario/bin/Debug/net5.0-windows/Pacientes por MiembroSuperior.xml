@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPaciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paciente>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Araya</Apellido>
+    <Dni>16123988</Dni>
+    <Patologia>
+      <EPatologia>MiembroSuperior</EPatologia>
+    </Patologia>
+  </Paciente>
+  <Paciente>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Russo</Apellido>
+    <Dni>24271133</Dni>
+    <Patologia>
+      <EPatologia>MiembroSuperior</EPatologia>
+      <EPatologia>Columna</EPatologia>
+    </Patologia>
+  </Paciente>
+  <Paciente>
+    <Nombre>Florencia</Nombre>
+    <Apellido>Cuda</Apellido>
+    <Dni>38165629</Dni>
+    <Patologia>
+      <EPatologia>MiembroInferior</EPatologia>
+      <EPatologia>MiembroSuperior</EPatologia>
+    </Patologia>
+  </Paciente>
+  <Paciente>
+    <Nombre>Escudero</Nombre>
+    <Apellido>Yanina</Apellido>
+    <Dni>23159922</Dni>
+    <Patologia>
+      <EPatologia>MiembroSuperior</EPatologia>
+      <EPatologia>MiembroInferior</EPatologia>
+    </Patologia>
+  </Paciente>
+  <Paciente>
+    <Nombre>Dario</Nombre>
+    <Apellido>Cuda</Apellido>
+    <Dni>23060221</Dni>
+    <Patologia>
+      <EPatologia>MiembroSuperior</EPatologia>
+      <EPatologia>MiembroInferior</EPatologia>
+    </Patologia>
+  </Paciente>
+</ArrayOfPaciente>

@@ -1,0 +1,118 @@
+[
+  {
+    "Patologia": [
+      "Columna"
+    ],
+    "Nombre": "Lucas",
+    "Apellido": "Rodriguez",
+    "Dni": 35699823
+  },
+  {
+    "Patologia": [
+      "MiembroInferior"
+    ],
+    "Nombre": "Mauricio",
+    "Apellido": "Cerizza",
+    "Dni": 36688159
+  },
+  {
+    "Patologia": [
+      "MiembroInferior",
+      "Pelvis",
+      "Columna"
+    ],
+    "Nombre": "Federico",
+    "Apellido": "Davila",
+    "Dni": 34195299
+  },
+  {
+    "Patologia": [
+      "MiembroInferior",
+      "Pelvis",
+      "Columna"
+    ],
+    "Nombre": "Maximiliano",
+    "Apellido": "Neiner",
+    "Dni": 25974068
+  },
+  {
+    "Patologia": [
+      "MiembroSuperior"
+    ],
+    "Nombre": "Marcos",
+    "Apellido": "Araya",
+    "Dni": 16123988
+  },
+  {
+    "Patologia": [
+      "MiembroInferior",
+      "Pelvis",
+      "Columna"
+    ],
+    "Nombre": "Octavio",
+    "Apellido": "Villegas",
+    "Dni": 25524076
+  },
+  {
+    "Patologia": [
+      "Pelvis",
+      "Columna"
+    ],
+    "Nombre": "Mauricio",
+    "Apellido": "Davila",
+    "Dni": 28056659
+  },
+  {
+    "Patologia": [
+      "MiembroSuperior",
+      "Columna"
+    ],
+    "Nombre": "Marcos",
+    "Apellido": "Russo",
+    "Dni": 24271133
+  },
+  {
+    "Patologia": [
+      "Columna"
+    ],
+    "Nombre": "Martin",
+    "Apellido": "Isusi",
+    "Dni": 36155955
+  },
+  {
+    "Patologia": [
+      "MiembroInferior",
+      "MiembroSuperior"
+    ],
+    "Nombre": "Florencia",
+    "Apellido": "Cuda",
+    "Dni": 38165629
+  },
+  {
+    "Patologia": [
+      "MiembroSuperior",
+      "MiembroInferior"
+    ],
+    "Nombre": "Escudero",
+    "Apellido": "Yanina",
+    "Dni": 23159922
+  },
+  {
+    "Patologia": [
+      "MiembroSuperior",
+      "MiembroInferior"
+    ],
+    "Nombre": "Dario",
+    "Apellido": "Cuda",
+    "Dni": 23060221
+  },
+  {
+    "Patologia": [
+      "Columna",
+      "MiembroInferior"
+    ],
+    "Nombre": "Esteban",
+    "Apellido": "Prieto",
+    "Dni": 37737302
+  }
+]
